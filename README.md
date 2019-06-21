@@ -1,2 +1,2 @@
-# KotlinHoroscope
-Kotlin - Base Adaptor - Palette API - Collapsing Toolbar
+# Andorid | KotlinHoroscope
+Android Kotlin - Base Adaptor - Palette API - Collapsing Toolbar
